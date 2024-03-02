@@ -5,4 +5,4 @@
 2. Create your venv. Run `python3 -m venv env`
 3. Activate venv`source env/bin/activate`
 4. Install dependancies `pip install -r requirements.txt`
-5. Run Python3 JPGtoPNGconverter.py old/ new/
+5. Run Python3 `JPGtoPNGconverter.py old/ new/`
